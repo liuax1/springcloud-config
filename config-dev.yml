@@ -1,1 +1,2 @@
-info  myfirst spring cloud github project version=1
+config:
+  info: "myfirst spring cloud github project version=1"
